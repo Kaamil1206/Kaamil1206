@@ -41,11 +41,12 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/kaamil-gohel-693933374">
-    <img src="https://img.shields.io/badge/-Kaamil%20Gohel-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/kaamil-gohel-693933374" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaamil%20Gohel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/gohelkaamil">
-    <img src="https://img.shields.io/badge/-gohelkaamil-E4405F?style=flat&logo=instagram&logoColor=white" />
+  &nbsp;
+  <a href="https://instagram.com/gohelkaamil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-gohelkaamil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
