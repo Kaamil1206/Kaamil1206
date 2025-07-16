@@ -1,25 +1,21 @@
-<p align="center">
-  <img src="https://i.imgur.com/9TbHeGl.png" alt="Kaamil Banner" width="900" style="border-radius: 15px;" />
-</p>
+<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 40px; border-radius: 20px; color: white; font-family: 'Fira Code', monospace;">
 
-<br />
+<h1>Hi there, I'm Kaamil 👋</h1>
 
-<p align="center" style="background: #0f2027; padding: 20px 40px; border-radius: 15px; display: inline-block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&width=480&height=130&lines=Python+Developer;Student+%7C+AI+Enthusiast;Always+learning+new+things..." alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=99f2c8&center=true&vCenter=true&multiline=true&width=480&height=130&lines=Python+Developer;Student+%7C+AI+Enthusiast;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-<p align="center">
-  💻 Python Developer & Tech Explorer  
-  <br/>
-  📚 Currently learning <strong>AI/ML</strong>, <strong>Web Dev</strong>, and <strong>GitHub Magic</strong>  
-  <br/>
-  🎯 Goal: Contribute to Open Source Projects & Build Amazing Apps  
-  <br/>
-  📫 Reach me at: <code>kaamilgohel1210@gmail.com</code>
-</p>
+💻 Python Developer & Tech Explorer  
+<br/>
+📚 Currently learning <strong>AI/ML</strong>, <strong>Web Dev</strong>, and <strong>GitHub Magic</strong>  
+<br/>
+🎯 Goal: Contribute to Open Source Projects & Build Amazing Apps  
+<br/>
+📫 Reach me at: <code>kaamilgohel1210@gmail.com</code>
 
 ---
 
@@ -33,7 +29,7 @@
 ---
 
 ### 🔧 Technologies & Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3" />
@@ -44,7 +40,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/kaamil-gohel-693933374" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kaamil%20Gohel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -53,3 +49,5 @@
     <img src="https://img.shields.io/badge/Instagram-gohelkaamil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+</div>
