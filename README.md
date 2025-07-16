@@ -1,11 +1,13 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80" alt="Kaamil Banner" width="900" style="border-radius: 15px;" />
+<p align="center" style="background: linear-gradient(90deg, #1f4037, #99f2c8); padding: 30px; border-radius: 15px;">
+  <h1 style="color: white; font-family: 'Fira Code', monospace; margin: 0;">
+    Hi there, I'm Kaamil 👋
+  </h1>
 </p>
 
----
+<br />
 
-<p align="center" style="background: linear-gradient(135deg, #1e293b, #334155); padding: 15px 25px; border-radius: 12px; display: inline-block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&height=120&lines=Python+Developer;Student+%7C+AI+Enthusiast;Always+learning+new+things..." alt="Typing SVG" />
+<p align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 15px 25px; border-radius: 12px; display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=99f2c8&center=true&vCenter=true&multiline=true&width=480&height=130&lines=Python+Developer;Student+%7C+AI+Enthusiast;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
 ---
