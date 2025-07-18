@@ -50,7 +50,7 @@
   <a href="mailto:kaamilgohel1210@gmail.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="45"/>
   </a>&#8203;
-  <a href="https://github.com/Kaamil1210" target="_blank" title="GitHub">
+  <a href="https://github.com/Kaamil1206" target="_blank" title="GitHub">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45"/>
   </a>
 </p>
