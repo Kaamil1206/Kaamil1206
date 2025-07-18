@@ -20,14 +20,35 @@
 
 ---
 
+
 ### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/python.png" width="40" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" alt="HTML" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VSCode" />
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
