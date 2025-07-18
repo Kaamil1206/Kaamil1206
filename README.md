@@ -1,40 +1,49 @@
-<div align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 40px; border-radius: 20px; color: white; font-family: 'Fira Code', monospace;">
+<!-- Header Wave with Name -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=6a11cb,2575fc&height=180&section=header&text=Hi%20I'm%20Kaamil%20👋&fontSize=40&fontColor=ffffff" />
+</p>
 
-<h1>Hi there, I'm Kaamil 👋</h1>
+<!-- Container -->
+<div align="center" style="
+  background: linear-gradient(135deg, #1f1c2c, #928dab);
+  padding: 40px; 
+  border-radius: 20px; 
+  color: #e0e6f8; 
+  font-family: 'Fira Code', monospace;
+  box-shadow: 0 0 20px #928dab88;
+">
 
+<!-- Typing Animation -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=99f2c8&center=true&vCenter=true&multiline=true&width=480&height=130&lines=Python+Developer;Student+%7C+AI+Enthusiast;Always+learning+new+things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=93c5fd&center=true&vCenter=true&multiline=true&width=480&height=130&lines=Python+Developer;Student+%7C+AI+Enthusiast;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 💻 Python Developer & Tech Explorer  
-<br/>
-📚 Currently learning <strong>AI/ML</strong>, <strong>Web Dev</strong>, and <strong>GitHub Magic</strong>  
-<br/>
+📚 Learning: <strong>AI/ML</strong>, <strong>Web Dev</strong>, <strong>GitHub Magic</strong>  
 🎯 Goal: Contribute to Open Source Projects & Build Amazing Apps  
-<br/>
-📫 Reach me at: <code>kaamilgohel1210@gmail.com</code>
+📫 Reach me at: <code style="color:#a5d8ff;">kaamilgohel1210@gmail.com</code>
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaamil1210&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaamil1210&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaamil1210&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaamil1210&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ### 🔧 Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -42,11 +51,11 @@
 ### 🌐 Connect with Me
 <p>
   <a href="https://linkedin.com/in/kaamil-gohel-693933374" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaamil%20Gohel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://instagram.com/gohelkaamil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-gohelkaamil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
