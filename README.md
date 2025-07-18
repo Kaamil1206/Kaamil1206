@@ -39,13 +39,18 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/kaamil-gohel-693933374" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaamil%20Gohel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/gohelkaamil" target="_blank">
-    <img src="https://img.shields.io/badge/-GohelKaamil-D6249F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://linkedin.com/in/kaamil-gohel-693933374" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45"/>
+  </a>&#8203;
+  <a href="https://instagram.com/gohelkaamil" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45"/>
+  </a>&#8203;
+  <a href="mailto:kaamilgohel1210@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="45"/>
+  </a>&#8203;
+  <a href="https://github.com/Kaamil1210" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45"/>
   </a>
 </p>
