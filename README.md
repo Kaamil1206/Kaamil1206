@@ -2,7 +2,7 @@
 
 <!-- 🎨 Custom Wave Header for Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Kaamil%20Gohel&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Kaamil%20Gohel&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ✨ Typing Animation -->
