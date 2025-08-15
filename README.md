@@ -1,77 +1,62 @@
-<!-- README.md -->
-
-<!-- 🎨 Custom Wave Header for Name -->
+<!-- 🎨 Gradient Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Kaamil%20Gohel&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:FF6EC7&height=180&section=header&text=Kaamil%20Gohel&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Developer;AI%20Enthusiast;Student;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Developer;AI+%26+ML+Enthusiast;Web+Developer;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-- 💻 Python Developer & Tech Explorer  
-- 📚 Learning AI/ML, Web Dev, GitHub Magic  
-- 🎯 Goal: Contribute to Open Source & Build Projects  
-- 📫 Reach me: `kaamilgohel1210@gmail.com`
+## 🧑‍💻 About Me  
+- 💻 **Python Developer** & Tech Explorer  
+- 📚 Learning **AI/ML**, **Web Development**, & **Open Source**  
+- 🚀 Building real-world projects & sharing knowledge  
+- 📫 **Reach me:** `kaamilgohel1210@gmail.com`
 
 ---
 
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/python.png" width="40" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" alt="HTML" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/git.png" width="40" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" alt="VSCode" />
-        <br>VS Code
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaamil1210&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaamil1210&theme=tokyonight" height="150"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" alt="VS Code"/>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://linkedin.com/in/kaamil-gohel-693933374" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45"/>
-  </a>&#8203;
-  <a href="https://instagram.com/gohelkaamil" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="45"/>
-  </a>&#8203;
-  <a href="mailto:kaamilgohel1210@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="45"/>
-  </a>&#8203;
-  <a href="https://github.com/Kaamil1206" target="_blank" title="GitHub">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaamil1206&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaamil1206&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🌎 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/kaamil-gohel-693933374" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/linkedin.png" alt="LinkedIn"/>
   </a>
+  <a href="https://instagram.com/gohelkaamil" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="mailto:kaamilgohel1210@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/gmail.png" alt="Email"/>
+  </a>
+  <a href="https://github.com/Kaamil1206" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<!-- 🎨 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=footer"/>
 </p>
