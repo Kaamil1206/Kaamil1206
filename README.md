@@ -5,27 +5,34 @@
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Developer;AI+%26+ML+Enthusiast;Web+Developer;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Python+Developer;Learning+React;AI+%26+ML+Enthusiast;Web+Developer;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
-- 💻 **Python Developer** & Tech Explorer  
-- 📚 Learning **AI/ML**, **Web Development**, & **Open Source**  
-- 🚀 Building real-world projects & sharing knowledge  
+- 💻 **Python Developer** & Beginner **React Learner**  
+- 📚 Currently learning **React** & **JavaScript** for frontend development  
+- 🤖 Interested in **AI/ML** and backend technologies  
+- 🚀 Building real-world projects & exploring open source  
 - 📫 **Reach me:** `kaamilgohel1210@gmail.com`
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/python.png" title="Python" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" alt="JavaScript"/>
+  <img src="https://img.icons8.com/officel/48/react.png" title="React" alt="React"/>
+  
+  <!-- Tools & Technologies -->
   <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" title="GitHub" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/npm.png" title="NPM" alt="NPM"/>
 </p>
 
 ---
@@ -52,11 +59,4 @@
   <a href="https://github.com/Kaamil1206" target="_blank">
     <img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub"/>
   </a>
-</p>
-
----
-
-<!-- 🎨 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:58A6FF&height=120&section=footer"/>
 </p>
