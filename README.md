@@ -5,7 +5,7 @@
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+Developer;React+Learner;AI+%26+ML+Enthusiast;Web+Developer;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Python+Developer;React+Learner;AI+%26+ML+Enthusiast;Web+Developer;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
@@ -13,36 +13,35 @@
 ## 🧑‍💻 About Me  
 - 💻 Passionate **Python Developer** exploring modern tech  
 - 📚 Currently learning **React** & **JavaScript** for frontend development  
-- 🤖 Enthusiast in **AI/ML** and backend technologies  
+- 🤖 Interested in **AI/ML** and backend technologies  
 - 🚀 Building real-world projects & contributing to open-source  
-- 📫 Reach me at **`kaamilgohel1210@gmail.com`**
+- 📫 Reach me at: **`kaamilgohel1210@gmail.com`**
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
   
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://img.icons8.com/color/48/python.png" title="Python" alt="Python"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" alt="CSS"/>
   <img src="https://img.icons8.com/officel/48/react.png" title="React" alt="React"/>
   
-  <!-- Tools & Technologies -->
+  <!-- Tools -->
   <img src="https://img.icons8.com/color/48/git.png" title="Git" alt="Git"/>
   <img src="https://img.icons8.com/color/48/github.png" title="GitHub" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/npm.png" title="NPM" alt="NPM"/>
-
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaamil1206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaamil1206&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaamil1206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaamil1206&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
